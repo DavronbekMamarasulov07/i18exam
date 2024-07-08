@@ -15,7 +15,7 @@ const Main = () => {
 
 
   return (
-    <section className='main'>
+    <section className='main'>k
       <div className="main_categories">
         <ul className="main_categories_list">
           <li><NavLink to="/" className="main_categories_item_link">{data.t("categories.all")}</NavLink></li>

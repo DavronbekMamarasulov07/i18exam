@@ -86,7 +86,7 @@ const Nav = () => {
               <Select 
                   className=" nav_list_item_select"
                   showSearch
-                  defaultValue={"Select Language"}  
+                  defaultValue={"Tilni tahrirlang"}  
                   onChange={handleChangeLang}
                   style={{ width: 130 }}
                   options={normalizedLang()}

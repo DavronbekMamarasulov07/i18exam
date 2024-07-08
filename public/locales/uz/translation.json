@@ -1,0 +1,32 @@
+{
+    "nav" : {
+        "portfolio" : "Portfel",
+        "blog" : "Blog",
+        "cv" : "CV",
+        "store" : "Do'kon",
+        "freelance" : "Frilans",
+        "aboutme" : "Biz haqimizda",
+        "contact" : "Aloqa"
+    },
+    "hero": {
+        "title": "Blog Postlar",
+        "subtitle": "O'ylaymanki, bu shu.",
+        "info": "Dizayn men tajribani qanday qilib eng muvaffaqiyatli tarzda taqdim etishni o'ylab ko'rgandan keyin boshlanadi, qo'ygan tugmacha muammoni hal qila oladimi yoki yo'qmi. Dizaynning yagona nuqtasi faqat UI dizayni emas, agar foydalanuvchi mahsulot oxirida yaxshi tajriba olmasa, dizayn muvaffaqiyatsiz deb hisoblanadi, mening fikrimcha."
+      },
+      "main" : {
+        "title": "Batafsil o'qing"
+    },
+    "categories": {
+        "all": "Barchasi",
+        "phones": "Telefon",
+        "tablets": "Planshet",
+        "laptops": "Laptop",
+        "cameras": "Kamera",
+        "others": "Boshqa",
+        "more": "Batafsil o'qing"
+    },
+    "blog" :{
+        "title" : "BLOG DETALLARI H2",
+        "text" : "Grafik dizayn va veb ishlab chiqarish kabi, UX dizayn tendensiyalari sabablariga ko'ra kelib chiqadi va ketadi. UX insonlik uchun yaxshi raqamli dunyo yaratish masalasidir. Bu innovatsiyalarni talab qiladigan, lekin doimiy rivojlanuvchi soha. UX dizayn bloglarini ma'ruflikda tutish, sanoatdagi o'zgarishlarni yaxshi ko'rish va UX ko'nikmalarini rivojlantirishga yordam berishi mumkin. Bundan tashqari, ko'p UX dizayn bloglari sizni ilova yoki veb saytning muvaffaqiyatli rivojlanishini tafsilotlari bilan tanishtiradi, shuningdek, uning foydalanish sodda qilinishi. Ushbu turlardagi holatlarni o'qish, sizga ideyalarni berishi mumkin. Ushbu ma'no bo'yicha, UX dizayn bloglari kelajak loyihalaringiz uchun yo'nalishlar taqqoslashda yordam berishi mumkin"
+    }
+}

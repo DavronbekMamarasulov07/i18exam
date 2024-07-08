@@ -1,0 +1,12 @@
+.not_found{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 34px;
+    background-image: url("../../images/404.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}

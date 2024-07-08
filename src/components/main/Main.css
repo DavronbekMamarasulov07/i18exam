@@ -1,0 +1,140 @@
+
+.main{
+    margin-block: 205px 50px;
+    width: 100%;
+}
+
+.main_content{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-between;  
+    gap:75px 20px;
+
+}   
+
+.main__item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+
+.main__title{
+    height: 64px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: left;
+    color: #D05270;
+    margin-top: 20px;
+}
+
+.main__text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    color: #424242;
+    max-width: 600px;
+    margin-bottom: 30px;
+}
+
+.main__text {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .main__link{
+    margin-top: 18px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.94px;
+    text-align: left;
+    color: #D05270;
+    text-transform: uppercase;
+    padding-bottom: 2px;
+    transition: .3s;
+    border-bottom: 1px solid transparent;
+
+  }
+
+  .main_categories_list{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .main_categories{
+    margin-bottom: 65px;
+  }
+
+  .main_categories_item_link{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.94px;
+    text-align: left;
+    color: #424242;
+    padding: 0 20px;
+    padding-bottom: 8px;
+    text-transform: uppercase;
+  }
+
+  .main .active{
+    color: #D05270;
+    border-bottom: 1px solid #D05270;
+  }
+
+  .main_footer_logo{
+    display: block; 
+    margin: 100px auto 30px;
+
+  }
+
+
+  .main__link:hover{
+    border-bottom: 1px solid #D05270;
+  }
+
+  
+.blog_btn_content{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 100px 0;
+}
+
+.main__button{
+  padding: 11px 43px;
+  border-radius: 20px;
+  background-color: #D05270;
+  color: #fff;
+  border: none;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 23px;
+  text-align: center;
+  transition: .3s;
+}
+
+.main__button:active{
+  box-shadow: 0px 0px 15px #D05270;
+  transform: scale(0.9);
+}
+
+.to-back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: #5d1c2b;
+}
+
+.to-back svg{
+  font-size: 24px;
+}

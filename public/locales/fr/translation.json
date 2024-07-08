@@ -1,0 +1,33 @@
+{
+    "nav" : {
+        "portfolio" : "Portfolio",
+        "blog" : "Blog",
+        "cv" : "CV",
+        "store" : "Magasin",
+        "freelance" : "Freelance",
+        "aboutme" : "À propos de moi",
+        "contact" : "Contact"
+    },
+    "hero": {
+        "title": "Articles de blog",
+        "subtitle": "C'est ce que je pense.",
+        "info": "Le design commence après que je commence à réfléchir à la manière de présenter une expérience de la manière la plus réussie possible, que le bouton que je place puisse résoudre un problème. Le seul point dans le design n'est pas seulement le design UI, si l'utilisateur n'a pas une bonne expérience à la fin du produit, le design sera considéré comme infructueux à mon avis."
+    }
+    ,
+    "main" : {
+        "title": "Lire la suite"
+    },
+    "categories": {
+        "all" : "Tous",
+        "phones" : "Telephone",
+        "tablets" : "Tablettes",
+        "laptops" : "Laptop",
+        "cameras" : "Caméra",
+        "others" : "Autres",
+        "more" : "lire la suite"
+    },
+    "blog": {
+        "title" : "DÉTAILS DU BLOG H2",   
+        "text" : "Tout comme le design graphique et le développement web, les tendances en matière de conception UX vont et viennent pour une raison précise. L'UX consiste à développer un monde numérique meilleur pour l'humanité. C'est un domaine qui nécessite de l'innovation, mais qui évolue constamment. Suivre régulièrement les blogs de conception UX peut vous aider à rester au fait des changements de l'industrie et à développer vos compétences en UX. De plus, de nombreux blogs de conception UX vous exposent à des études de cas détaillant le développement réussi d'une application ou d'un site web, ainsi qu'à l'amélioration de sa convivialité. Lire sur ces types de cas peut vous donner des idées. En ce sens, les blogs de conception UX peuvent aider à indiquer les orientations que vos projets futurs devraient prendre."
+    }
+}

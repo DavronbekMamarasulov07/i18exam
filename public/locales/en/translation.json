@@ -1,0 +1,32 @@
+{
+    "nav" : {
+        "portfolio" : "Portfolio",
+        "blog" : "Blog",
+        "cv" : "CV",
+        "store" : "Store",
+        "freelance" : "Freelance",
+        "aboutme" : "About me",
+        "contact" : "Contact"
+    },
+    "hero": {
+        "title": "Blog Posts",
+        "subtitle": "I think so, this is it.",
+        "info": "Design begins after I begin to think about how to present an experience most successfully, whether a button I put in can solve a problem. The only point in design is not ui design, if the user does not have a good experience at the end of the product, the design will be considered unsuccessful in my opinion."
+    },
+    "main" : {
+        "title": "READ MORE"
+    },
+    "categories": {
+        "all": "all",
+        "phones": "phones",
+        "tablets": "tablets",
+        "laptops": "laptops",
+        "cameras": "cameras",
+        "others": "others",
+        "more": "read more"
+    },
+    "blog":{
+        "title" : "BLOG DETAILS H2",
+        "text"  : "Just like graphic design and web development, UX design trends come and go for a reason. UX is all about developing a better digital world for humanity. It’s a field that requires innovation, but that is constantly evolving. Regularly following UX design blogs can help you keep on top of changes in the industry, as well as develop your UX skills.Additionally, many UX design blogs expose you to case studies detailing an app or web’s successful development, along with how its usability was improved. Reading about these types of cases can help give you ideas. In this sense, UX design blogs can help provide an indication for the kinds of directions your future projects should take.Additionally, many UX design blogs expose you to case studies detailing an app or web’s successful development, along with how its usability was improved. Reading about these types of cases can help give you ideas. In this sense, UX design blogs can help provide an indication for the kinds of directions your future projects should take."
+    }
+}

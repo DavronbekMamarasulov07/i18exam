@@ -1,0 +1,33 @@
+{
+    "nav" : {
+        "portfolio" : "Portfolio",
+        "blog" : "Blog",
+        "cv" : "Lebenslauf",
+        "store" : "Geschäft",
+        "freelance" : "Freiberuflich",
+        "aboutme" : "Über mich",
+        "contact" : "Kontakt"
+    },
+    "hero": {
+        "title": "Blog-Beiträge",
+        "subtitle": "Ich denke, das ist es.",
+        "info": "Das Design beginnt, nachdem ich darüber nachdenke, wie ich eine Erfahrung erfolgreich präsentieren kann, ob ein von mir gesetzter Button ein Problem lösen kann. Der einzige Zweck des Designs ist nicht nur das UI-Design; wenn der Benutzer am Ende des Produkts keine gute Erfahrung hat, wird das Design meiner Meinung nach als erfolglos angesehen."
+    },
+    "main" : {
+        "title": "Mehr lesen"
+    },
+    "categories":{
+        "all" : "Alle",
+        "phones" : "Telefone",
+        "tablets" : "Tablets",
+        "laptops" : "Laptops",
+        "cameras" : "Kameras",
+        "others" : "Andere",
+        "more" : "mehr"
+    },
+    "blog":{
+        "title" : "BLOG DETAILS H2",
+        "text" : "Wie bei Grafikdesign und Webentwicklung kommen und gehen UX-Design-Trends aus bestimmten Gründen. UX dreht sich darum, eine bessere digitale Welt für die Menschheit zu schaffen. Es ist ein Bereich, der Innovation erfordert, aber ständig im Wandel ist. Durch regelmäßiges Lesen von UX-Design-Blogs können Sie über Veränderungen in der Branche auf dem Laufenden bleiben und Ihre UX-Fähigkeiten entwickeln. Darüber hinaus stellen viele UX-Design-Blogs Fallstudien vor, die die erfolgreiche Entwicklung einer App oder einer Webseite sowie deren verbesserte Benutzerfreundlichkeit detailliert beschreiben. Das Lesen über solche Fälle kann Ihnen Ideen geben. In diesem Sinne können UX-Design-Blogs Hinweise darauf geben, in welche Richtung Ihre zukünftigen Projekte gehen sollten."
+    }
+    
+}

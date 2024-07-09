@@ -86,7 +86,7 @@ const Nav = () => {
               <Select 
                   className=" nav_list_item_select"
                   showSearch
-                  defaultValue={"Select language"}  
+                  defaultValue={i18n.language}  
                   onChange={handleChangeLang}
                   style={{ width: 130 }}
                   options={normalizedLang()}
